@@ -1,0 +1,15 @@
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.csproj.AssemblyReference.cache
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.AssemblyInfoInputs.cache
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.AssemblyInfo.cs
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.csproj.CoreCompileInputs.cache
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/bin/Debug/net7.0/ConsoleE
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/bin/Debug/net7.0/ConsoleE.deps.json
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/bin/Debug/net7.0/ConsoleE.runtimeconfig.json
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/bin/Debug/net7.0/ConsoleE.dll
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/bin/Debug/net7.0/ConsoleE.pdb
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.dll
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/refint/ConsoleE.dll
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.pdb
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ConsoleE.genruntimeconfig.cache
+/Users/lee/Desktop/repos/ConsoleE/ConsoleE/obj/Debug/net7.0/ref/ConsoleE.dll
